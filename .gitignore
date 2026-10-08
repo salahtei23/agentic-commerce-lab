@@ -1,0 +1,16 @@
+node_modules/
+playwright-report/
+test-results/
+blob-report/
+.env
+store/data/
+artifacts/*
+!artifacts/.gitkeep
+*.log
+.DS_Store
+.playwright-mcp/
+.qwen/skills/
+.qwen/*.orig
+.catchup/
+mcp/ledger/server.ts.catchup
+.agents/skills/*/SKILL.md.catchup
