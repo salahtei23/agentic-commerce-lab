@@ -8,5 +8,15 @@
       "Bash(npm run trace)"
     ]
   },
+  "mcpServers": {
+    "stripe": {
+      "command": "npx",
+      "args": ["tsx", "mcp/stripe/server.ts"]
+    },
+    "zinctm": {
+      "command": "npx",
+      "args": ["tsx", "mcp/zinctm/zinctm.ts"]
+    }
+  },
   "$version": 4
 }
