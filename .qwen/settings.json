@@ -15,7 +15,7 @@
     },
     "zinctm": {
       "command": "npx",
-      "args": ["tsx", "mcp/zinctm/zinctm.ts"]
+      "args": ["tsx", "mcp/zinctm/server.ts"]
     }
   },
   "$version": 4
